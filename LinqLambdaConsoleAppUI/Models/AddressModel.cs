@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace LinqLambdaConsoleAppUI.Models
+﻿namespace LinqLambdaConsoleAppUI.Models
 {
 	internal class AddressModel
 	{

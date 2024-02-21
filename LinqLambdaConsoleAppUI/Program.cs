@@ -8,7 +8,7 @@ namespace LinqLambdaConsoleAppUI
 {
 	internal class Program
 	{
-		static void Main(string[] args)
+		private static void Main()
 		{
 			Console.WriteLine("Query Syntax:");
 			RunQueries();
